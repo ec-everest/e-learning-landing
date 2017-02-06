@@ -11,7 +11,7 @@
   <packaging>rpm</packaging>
   <name>ever-est-e-learning-landing</name>
   <description>EVER-EST e-learning landing page</description>
-  <version>0.2</version>
+  <version>0.3</version>
   <profiles>
     <!-- Development environment -->
     <profile>
